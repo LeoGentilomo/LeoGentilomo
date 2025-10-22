@@ -16,8 +16,8 @@
 
 <h2> Other Stuff</h2>
 
-- [COMAU's Robotic Licence](https://www.sobrero.edu.it/lelettronica-vince-il-premio-i-automation)
-- [Franco Cellerino Scholarship](https://rotary2032.it/wp-content/uploads/2022/05/Pagine-da-Il-Monferrato_2022_05_03.pdf) from Rotary Club (Casale M.to)
+- [COMAU's Robotic Licence](https://github.com/LeoGentilomo/LeoGentilomo/blob/main/Certificazione_Internazionale_COMAU_Leo_GENTILOMO.pdf) 🦿
+- I've lot of tomatoes in the garden 🍅
 - "Ceremony of Excellence" Scholarship from IS A. Sobrero
 
 <h2> 🤳 Connect with me:</h2>
