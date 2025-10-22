@@ -3,7 +3,7 @@
 <h2>📚 Education:</h2>
 
 - <b> Electronics engineer (secondary-school diploma) at [IS A. Sobrero](https://www.sobrero.edu.it) </b>
-  - pippo
+  - [School Elaborate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Bachelor's Degree in Physics at [Milan University](https://fisica.cdl.unimi.it/it)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Master's Degree in Theoretical Physics at [Milan University](https://fisica-lm.cdl.unimi.it/it) (ongoing)</b>
