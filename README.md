@@ -17,8 +17,8 @@
 <h2> Other Stuff</h2>
 
 - [COMAU's Robotic Licence](https://github.com/LeoGentilomo/LeoGentilomo/blob/main/Certificazione_Internazionale_COMAU_Leo_GENTILOMO.pdf) 🦿
+- [Nasty Articles](https://github.com/LeoGentilomo/Nasty_Articles/tree/main)
 - I've lot of tomatoes in the garden 🍅
-- "Ceremony of Excellence" Scholarship from IS A. Sobrero
 
 <h2> 🤳 Connect with me:</h2>
 
