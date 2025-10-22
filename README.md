@@ -5,14 +5,18 @@
 - <b> Electronics engineer (secondary-school diploma) at [IS A. Sobrero](https://www.sobrero.edu.it) </b>
   - [School Elaborate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Bachelor's Degree in Physics at [Milan University](https://fisica.cdl.unimi.it/it)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Bachelor Thesis](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis.pdf) 
 - <b>Master's Degree in Theoretical Physics at [Milan University](https://fisica-lm.cdl.unimi.it/it) (ongoing)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
 
 <h2>🎖️ Awards</h2>
 
 - [Omron's "I-Automation" prize](https://www.sobrero.edu.it/lelettronica-vince-il-premio-i-automation)
+- [Franco Cellerino Scholarship](https://rotary2032.it/wp-content/uploads/2022/05/Pagine-da-Il-Monferrato_2022_05_03.pdf) from Rotary Club (Casale M.to)
+- "Ceremony of Excellence" Scholarship from IS A. Sobrero
+
+<h2> Other Stuff</h2>
+
+- [COMAU's Robotic Licence](https://www.sobrero.edu.it/lelettronica-vince-il-premio-i-automation)
 - [Franco Cellerino Scholarship](https://rotary2032.it/wp-content/uploads/2022/05/Pagine-da-Il-Monferrato_2022_05_03.pdf) from Rotary Club (Casale M.to)
 - "Ceremony of Excellence" Scholarship from IS A. Sobrero
 
