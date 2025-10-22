@@ -3,7 +3,7 @@
 <h2>📚 Education:</h2>
 
 - <b> Electronics engineer (secondary-school diploma) at [IS A. Sobrero](https://www.sobrero.edu.it) </b>
-  - [School Elaborate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [School Elaborate](https://github.com/LeoGentilomo/School-Elaborate/blob/main/Elaborate.pdf)
 - <b>Bachelor's Degree in Physics at [Milan University](https://fisica.cdl.unimi.it/it)</b>
   - [Bachelor Thesis](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis.pdf) 
 - <b>Master's Degree in Theoretical Physics at [Milan University](https://fisica-lm.cdl.unimi.it/it) (ongoing)</b>
