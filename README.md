@@ -22,7 +22,7 @@
 
 <h2>✍️ Contact me: </h2>
 
-- entilomo.leo@gmail.com
+- gentilomo.leo@gmail.com
 - leo.gentilomo@studenti.unimi.it
 
 <!--
