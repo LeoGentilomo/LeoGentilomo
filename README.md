@@ -18,6 +18,7 @@
 
 - [COMAU's Robotic Licence](https://github.com/LeoGentilomo/LeoGentilomo/blob/main/Certificazione_Internazionale_COMAU_Leo_GENTILOMO.pdf) 🦿
 - [Nasty Articles](https://github.com/LeoGentilomo/Nasty_Articles/tree/main)
+- Solutions to some exercises of the course [Quantum Many-Body Theory 1](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/teoria-dei-sistemi-molti-corpi-1-0)
 - I've lot of tomatoes in the garden 🍅
 
 <h2>✍️ Contact me: </h2>
