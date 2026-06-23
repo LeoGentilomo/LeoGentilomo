@@ -1,8 +1,8 @@
 <h1>Hi, I'm Leo! ⚛️ <br/>Physics student at</a> <a href="https://fisica-lm.cdl.unimi.it/it">Milan University</a>
 
 
-<h2>My CV:</h2>
-<strong><a href="https://www.sobrero.edu.it" target="_blank">CV Leo</a></strong>
+<h2>My CV</h2>
+
 <h2>📚 Education:</h2>
 
 - <b> Electronics engineer (secondary-school diploma) at [IS A. Sobrero](https://www.sobrero.edu.it) </b>
