@@ -25,6 +25,8 @@
 - [Solutions](https://github.com/LeoGentilomo/Exercises/blob/main/Esercizi_many_body.pdf) to some exercises of the course [Quantum Many-Body Theory 1](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/teoria-dei-sistemi-molti-corpi-1-0)
 - If you are a student seeking a PhD, I'm leaving the documentation I produced for the application in Milan/Trieste/Trento in 2026. I WARN YOU, I've always been rated around the middle of the pack:
   - [Interview Presentation](https://github.com/LeoGentilomo/PHD-Stuff/blob/main/Interview_presentation.pdf)
+  - [Research Project](https://github.com/LeoGentilomo/PHD-Stuff/blob/main/Research_Project.pdf)
+  - [Statement of Purpose](https://github.com/LeoGentilomo/PHD-Stuff/blob/main/Statement%20of%20Purpose.pdf)
 - I've lot of tomatoes in the garden 🍅
 
 <h2>✍️ Contact me: </h2>
