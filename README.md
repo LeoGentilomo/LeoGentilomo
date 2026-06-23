@@ -2,7 +2,7 @@
 
 
 <h3>My CV</h3>
-<b> -[CV Leo](https://www.sobrero.edu.it) </b>
+<b> [IS A. Sobrero](https://www.sobrero.edu.it) </b>
 
 <h2>📚 Education:</h2>
 
