@@ -1,6 +1,6 @@
 <h1>Hi, I'm Leo! ⚛️ <br/>Physics student at</a> <a href="https://fisica-lm.cdl.unimi.it/it">Milan University</a>
 
-My [CV](https://github.com/LeoGentilomo/CV-Leo)
+<b> My [CV](https://github.com/LeoGentilomo/CV-Leo) <b>
 
 <h2>📚 Education:</h2>
 
