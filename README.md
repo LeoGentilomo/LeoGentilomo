@@ -6,6 +6,7 @@
 <h2>📚 Education:</h2>
 
 - <b>Master's Degree in Theoretical Physics at [Milan University](https://fisica-lm.cdl.unimi.it/it) (ongoing)</b>
+  - [Master Thesis](https://github.com/LeoGentilomo/Master-Thesis/blob/main/Master%20Thesis.pdf)
 - <b>Bachelor's Degree in Physics at [Milan University](https://fisica.cdl.unimi.it/it)</b>
   - [Bachelor Thesis](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis.pdf)
   - [Thesis Presentation](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis_presentation.pdf) 
