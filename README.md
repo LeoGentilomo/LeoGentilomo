@@ -5,7 +5,7 @@
 
 <h2>📚 Education:</h2>
 
-- <b>Phd on Quantum Technologies at [University of Trieste](https://fisica-lm.cdl.unimi.it/it)/[ICTP](https://www.ictp.it)</b>
+- <b>Phd on Quantum Technologies at [University of Trieste](https://fisica-lm.cdl.unimi.it/it)/[ICTP](https://www.ictp.it) (ongoing)</b>
   - PhD title: Mitigation of errors in open quantum systems
   - My supervisors:
     - Prof. [Andrea Trombettoni](https://www.units.it/persone/index.php/from/abook/persona/33934)
