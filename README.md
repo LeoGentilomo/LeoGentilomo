@@ -5,9 +5,15 @@
 
 <h2>📚 Education:</h2>
 
-- <b>Master's Degree in Theoretical Physics at [Milan University](https://fisica-lm.cdl.unimi.it/it) (ongoing)</b>
+- <b>Phd on Quantum Technologies at [University of Trieste](https://fisica-lm.cdl.unimi.it/it)/[ICTP](https://www.ictp.it)</b>
+  - PhD title: Mitigation of errors in open quantum systems
+  - My supervisors:
+    - Prof. [Andrea Trombettoni](https://www.units.it/persone/index.php/from/abook/persona/33934)
+    - Prof. [Francesca Vatta](https://www.units.it/persone/index.php/persona/005882)
+- <b>Master's Degree in Theoretical Physics at [University of Milan](https://fisica-lm.cdl.unimi.it/it)</b>
   - [Master Thesis](https://github.com/LeoGentilomo/Master-Thesis/blob/main/Master%20Thesis.pdf)
-- <b>Bachelor's Degree in Physics at [Milan University](https://fisica.cdl.unimi.it/it)</b>
+  - [Thesis presentation](https://github.com/LeoGentilomo/Master-Thesis/blob/main/Thesis%20presentation.pdf)
+- <b>Bachelor's Degree in Physics at [University of Milan](https://fisica.cdl.unimi.it/it)</b>
   - [Bachelor Thesis](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis.pdf)
   - [Thesis Presentation](https://github.com/LeoGentilomo/Bachelor-Thesis/blob/main/Thesis_presentation.pdf) 
 - <b> Electronics engineer (secondary-school diploma) at [IS A. Sobrero](https://www.sobrero.edu.it) </b>
