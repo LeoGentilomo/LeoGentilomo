@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leo! ⚛️ <br/>Physics student at</a> <a href="https://fisica-lm.cdl.unimi.it/it">Milan University</a>
+<h1>Hi, I'm Leo! ⚛️ <br/>PhD Student at</a> <a href="https://www.ictp.it">ICTP</a>
 
 
 <h2><a href="https://github.com/LeoGentilomo/CV-Leo" target="_blank">My CV</a></h2>
