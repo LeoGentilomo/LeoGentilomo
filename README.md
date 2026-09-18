@@ -22,7 +22,7 @@
 
 <h2>📝 Schools and workshops</h2>
 
-- <b> [RPMBT23](https://fisica-lm.cdl.unimi.it/it)/[ICTP](https://www.ictp.it)</b>
+- <b> [RPMBT23](https://github.com/LeoGentilomo/Schools-and-Workshops/blob/main/Certificate_SchoolQuantumSimulation.pdf) 09-10 September 2026</b>
 
 <h2>🎖️ Awards</h2>
 
