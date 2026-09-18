@@ -20,6 +20,10 @@
   - [School Elaborate](https://github.com/LeoGentilomo/School-Elaborate/blob/main/Elaborate.pdf)
 
 
+<h2>📝 Schools and workshops</h2>
+
+- <b> [RPMBT23](https://fisica-lm.cdl.unimi.it/it)/[ICTP](https://www.ictp.it)</b>
+
 <h2>🎖️ Awards</h2>
 
 - [Omron's "I-Automation" prize](https://www.sobrero.edu.it/lelettronica-vince-il-premio-i-automation)
