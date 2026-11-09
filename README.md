@@ -22,7 +22,7 @@
 
 <h2>📝 Schools and workshops</h2>
 
-- <b> [RPMBT23](https://github.com/LeoGentilomo/Schools-and-Workshops/blob/main/Certificate_SchoolQuantumSimulation.pdf) 09-10 September 2026</b>
+- <b> [RPMBT23](https://github.com/LeoGentilomo/Schools-and-Workshops/blob/main/Certificate_SchoolQuantumSimulation.pdf) 09-11 September 2026</b>
 
 <h2>🎖️ Awards</h2>
 
@@ -45,6 +45,7 @@
 
 - gentilomo.leo@gmail.com
 - leo.gentilomo@studenti.unimi.it
+- leo.gentilomo@phd.units.it
 
 <!--
 **[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
